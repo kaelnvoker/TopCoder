@@ -1,0 +1,13 @@
+build/
+*/**/build*
+*.bat
+gradlew
+*iml
+/**/*.iml
+*/**/*.iml
+*.class
+*/**/*.class
+/**/*.class
+*.gradle*
+gradle/**/*
+
